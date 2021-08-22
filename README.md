@@ -12,11 +12,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Features 
 
- 1.Server js to send the data
-    --sends list of data stored in json file
- 2.Search
- 3.Sort and filter
- 4.Pagination showing 9 items per page 
+* Server js to send the data --- Sends list of data stored in json file
+* Search
+* Sort and filter
+* Pagination showing 9 items per page 
 
 ## Development server
 
