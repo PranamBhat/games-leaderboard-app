@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## TECH Stack
 
 * Angular 12.0.4
+* TypeScript
 * jQuery
 * HTML/CSS
 * REST API
@@ -16,6 +17,23 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Search
 * Sort and filter
 * Pagination showing 9 items per page 
+
+
+### ABOUT CHALLENGE
+
+Cybersecurity has always been measured in subjective siloes. With the growing sophistication of cyberattacks, cybersecurity through generic red-amber-green heat maps is not enough. We are at the epicenter of solving this problem through our enterprise-wide, objective, unified and real-time cyber risk quantification platform called SAFE.
+
+### Eligibility Criteria:
+
+Years of experience: 3+ years
+Skills: Node.js, React, AWS, TypeScript
+
+
+### Challenge Format:
+
+1 Full Stack File Upload question
+
+
 
 ## Development server
 
