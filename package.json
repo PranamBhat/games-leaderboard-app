@@ -18,7 +18,12 @@
     "@angular/platform-browser": "~12.0.4",
     "@angular/platform-browser-dynamic": "~12.0.4",
     "@angular/router": "~12.0.4",
+    "cors": "^2.8.5",
+    "jquery": "^3.6.0",
+    "jw-angular-pagination": "^1.1.0",
+    "ngx-pagination": "^5.1.1",
     "rxjs": "~6.6.0",
+    "save": "^2.4.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
   },

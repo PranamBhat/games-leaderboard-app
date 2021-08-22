@@ -2,6 +2,22 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
+## TECH Stack
+
+* Angular 12.0.4
+* jQuery
+* HTML/CSS
+* REST API
+* Node.js
+
+## Features 
+
+ 1.Server js to send the data
+    --sends list of data stored in json file
+ 2.Search
+ 3.Sort and filter
+ 4.Pagination showing 9 items per page 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
